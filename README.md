@@ -6,7 +6,7 @@ This project is a implementation of LinkedLists and Quadtrees in C.
 
 ## Execute all the files
 
- To use it simply open the folder in a terminal and type : 
+ To use it  (you need to have ``` gcc ```installed ), simply open the folder in a terminal and type : 
 
  - ``` make allCompile ``` to compile all the files into .o files
  - ``` make allLance ``` to just execute the .o files
